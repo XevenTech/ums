@@ -7,6 +7,8 @@
 
 This project is a University Management System with three user panels: Admin, Faculty, and Student. The system is built using PHP, HTML, CSS, JavaScript, and MySQL.
 
+![Desktop Demo](https://github.com/XevenTech/projects_snapshots/blob/main/ums/demo.png?raw=true "Desktop Demo")
+
 ## Features
 
 ### 1. Admin Panel
