@@ -89,4 +89,4 @@ This project is a University Management System with three user panels: Admin, Fa
 
 ## Thank you for reading, here's a cat:
 
-![Cat](https://github.com/XevenTech/xeventech/blob/main/cat.gif?raw=true "Thank You"))
+![Cat](https://github.com/XevenTech/xeventech/blob/main/cat.gif?raw=true "Thank You")
